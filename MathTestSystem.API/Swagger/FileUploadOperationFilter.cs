@@ -7,7 +7,6 @@ namespace MathTestSystem.API.Swagger
     {
         public void Apply(OpenApiOperation operation, OperationFilterContext context)
         {
-            // Check if the operation has any parameters of type IFormFile
             var fileParameters = context.MethodInfo.GetParameters()
                 .Where(p => p.ParameterType == typeof(IFormFile))
                 .ToList();
@@ -15,10 +14,8 @@ namespace MathTestSystem.API.Swagger
             if (fileParameters.Count == 0)
                 return;
 
-            // Remove existing parameters
             operation.Parameters.Clear();
 
-            // Add a request body with multipart/form-data content type
             operation.RequestBody = new OpenApiRequestBody
             {
                 Content =

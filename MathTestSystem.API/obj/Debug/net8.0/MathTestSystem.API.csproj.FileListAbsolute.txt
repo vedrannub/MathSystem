@@ -54,3 +54,4 @@ C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.API\obj\Debug\net8.0\ref
 C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.API\obj\Debug\net8.0\MathTestSystem.API.pdb
 C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.API\obj\Debug\net8.0\MathTestSystem.API.genruntimeconfig.cache
 C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.API\obj\Debug\net8.0\ref\MathTestSystem.API.dll
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.API\obj\Debug\net8.0\MathTestSystem.API.sourcelink.json

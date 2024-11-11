@@ -1,14 +1,8 @@
-// MathTestSystem.Application/Commands/UploadExamsCommandHandler.cs
-
-using System;
-using System.Linq;
-using System.Threading;
-using System.Threading.Tasks;
-using System.Xml.Linq;
 using MathTestSystem.Application.Commands;
 using MathTestSystem.Application.Interfaces;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
+using System.Xml.Linq;
 
 public class UploadExamsCommandHandler : IRequestHandler<UploadExamsCommand, bool>
 {
@@ -116,7 +110,6 @@ public class UploadExamsCommandHandler : IRequestHandler<UploadExamsCommand, boo
                             exam.Tasks.Add(task);
                         }
 
-                        // Process the task
                         ProcessTask(task);
                     }
                 }

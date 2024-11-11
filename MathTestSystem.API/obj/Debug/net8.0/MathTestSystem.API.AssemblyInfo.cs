@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MathTestSystem.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb5a8b6d01e5370c3c30319d281fe1f149fafac7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MathTestSystem.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MathTestSystem.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

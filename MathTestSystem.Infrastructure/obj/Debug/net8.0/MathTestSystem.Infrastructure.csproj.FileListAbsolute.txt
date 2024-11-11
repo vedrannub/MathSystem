@@ -15,3 +15,4 @@ C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\obj\Debug
 C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\obj\Debug\net8.0\refint\MathTestSystem.Infrastructure.dll
 C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\obj\Debug\net8.0\MathTestSystem.Infrastructure.pdb
 C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\obj\Debug\net8.0\ref\MathTestSystem.Infrastructure.dll
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\obj\Debug\net8.0\MathTestSystem.Infrastructure.sourcelink.json

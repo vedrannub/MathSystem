@@ -1,15 +1,11 @@
-// MathTestSystem.API/Controllers/ExamsController.cs
-using Microsoft.AspNetCore.Mvc;
-using MediatR;
+using MathTestSystem.API.Models; 
 using MathTestSystem.Application.Commands;
-using MathTestSystem.API.Models; // Include the namespace for UploadExamModel
-using System.Threading.Tasks;
+using MediatR;
+using Microsoft.AspNetCore.Mvc;
 
 namespace MathTestSystem.API.Controllers
 {
-    /// <summary>
-    /// Controller for managing exams.
-    /// </summary>
+
     [ApiController]
     [Route("api/[controller]")]
     public class ExamsController : ControllerBase
@@ -21,11 +17,6 @@ namespace MathTestSystem.API.Controllers
             _mediator = mediator;
         }
 
-        /// <summary>
-        /// Uploads an XML file containing exam data.
-        /// </summary>
-        /// <param name="model">The upload model containing the XML file.</param>
-        /// <returns>A status message.</returns>
         [HttpPost("upload")]
         [Consumes("multipart/form-data")]
         public async Task<IActionResult> Upload([FromForm] UploadExamModel model)

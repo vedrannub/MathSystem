@@ -13,3 +13,4 @@ C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Application\obj\Debug\ne
 C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Application\obj\Debug\net8.0\refint\MathTestSystem.Application.dll
 C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Application\obj\Debug\net8.0\MathTestSystem.Application.pdb
 C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Application\obj\Debug\net8.0\ref\MathTestSystem.Application.dll
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Application\obj\Debug\net8.0\MathTestSystem.Application.sourcelink.json

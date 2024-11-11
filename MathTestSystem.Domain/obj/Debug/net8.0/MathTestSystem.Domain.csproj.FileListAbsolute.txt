@@ -9,3 +9,4 @@ C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Domain\obj\Debug\net8.0\
 C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Domain\obj\Debug\net8.0\refint\MathTestSystem.Domain.dll
 C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Domain\obj\Debug\net8.0\MathTestSystem.Domain.pdb
 C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Domain\obj\Debug\net8.0\ref\MathTestSystem.Domain.dll
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Domain\obj\Debug\net8.0\MathTestSystem.Domain.sourcelink.json
