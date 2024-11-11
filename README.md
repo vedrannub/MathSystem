@@ -30,18 +30,19 @@
 
 Example XML:
 
-<Teacher ID = "11111">    
-    <Students> 
+```xml
+<Teacher ID="11111">
+    <Students>
         <Student ID="12345">
             <Exam ID="1">
-                <Task ID = "1"> 2+3/6-4 = 74 </Task>
-                <Task ID = "2"> 6*2+3-4 = 22 </Task>
-            </Exam>    
-        </Student>    
-        <Student ID="54321"> 
+                <Task ID="1">2+3/6-4 = 74</Task>
+                <Task ID="2">6*2+3-4 = 22</Task>
+            </Exam>
+        </Student>
+        <Student ID="54321">
             <Exam ID="1">
-                <Task ID = "1"> 2+3/6-4 = 74 </Task>  
-                <Task ID = "2"> 6*2+3-4 = 22 </Task>    
+                <Task ID="1">2+3/6-4 = 74</Task>
+                <Task ID="2">6*2+3-4 = 22</Task>
             </Exam>
         </Student>
     </Students>
