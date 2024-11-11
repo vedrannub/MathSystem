@@ -1,6 +1,5 @@
-using MediatR;
-using System.Collections.Generic;
 using MathTestSystem.Application.DTOs;
+using MediatR;
 
 namespace MathTestSystem.Application.Queries
 {

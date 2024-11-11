@@ -31,8 +31,6 @@ function TeacherUpload() {
         method: 'POST',
         body: formData,
         headers: {
-          // Include API Key if your endpoint requires authentication
-          'ApiKey': 'Your_Secure_API_Key', // Replace with your actual API key
         },
       });
 

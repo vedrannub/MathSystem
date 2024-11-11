@@ -1,6 +1,3 @@
-// MathTestSystem.Domain/Entities/Teacher.cs
-
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 public class Teacher

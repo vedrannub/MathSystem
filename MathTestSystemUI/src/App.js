@@ -37,7 +37,6 @@ function App() {
           <Route path="/teacher/upload" element={<TeacherUpload />} />
           <Route path="/teacher/students" element={<TeacherStudents />} />
           <Route path="/student/" element={<StudentDetails />} />
-          {/* Optional: Add a home route or 404 page */}
           <Route path="/" element={<Home />} />
           <Route path="*" element={<NotFound />} />
         </Routes>

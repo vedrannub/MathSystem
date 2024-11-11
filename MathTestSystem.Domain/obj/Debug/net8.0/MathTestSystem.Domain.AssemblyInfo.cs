@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MathTestSystem.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb5a8b6d01e5370c3c30319d281fe1f149fafac7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+225e60a3f1ca344fb599cc7e1c6dac5997ec873a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MathTestSystem.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MathTestSystem.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

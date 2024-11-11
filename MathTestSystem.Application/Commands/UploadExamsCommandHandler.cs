@@ -54,7 +54,6 @@ public class UploadExamsCommandHandler : IRequestHandler<UploadExamsCommand, boo
                     continue;
                 }
 
-                // Retrieve or create the student
                 var student = teacher.Students.FirstOrDefault(s => s.ID == studentID);
                 if (student == null)
                 {
@@ -72,7 +71,6 @@ public class UploadExamsCommandHandler : IRequestHandler<UploadExamsCommand, boo
                         continue;
                     }
 
-                    // Retrieve or create the exam
                     var exam = student.Exams.FirstOrDefault(e => e.ID == examID);
                     if (exam == null)
                     {
@@ -96,7 +94,6 @@ public class UploadExamsCommandHandler : IRequestHandler<UploadExamsCommand, boo
 
                         var taskText = taskElement.Value.Trim();
 
-                        // Retrieve or create the task
                         var task = exam.Tasks.FirstOrDefault(t => t.ID == taskID);
                         if (task == null)
                         {

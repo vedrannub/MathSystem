@@ -1,4 +1,3 @@
-// src/components/StudentDetails.js
 import React, { useState } from 'react';
 import { Tabs, Tab, Form, Button, Table, Alert, Spinner } from 'react-bootstrap';
 

@@ -1,5 +1,3 @@
-using System.Collections.Generic;
-
 namespace MathTestSystem.Application.DTOs
 {
     public class ExamDto

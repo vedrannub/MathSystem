@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{040C9B74-7E6F-4877-802C-BC0AE64743E1}|MathTestSystem.Domain\\MathTestSystem.Domain.csproj|c:\\quipu_vedran_krstevski\\mathtestsystem\\mathtestsystem.domain\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040C9B74-7E6F-4877-802C-BC0AE64743E1}|MathTestSystem.Domain\\MathTestSystem.Domain.csproj|solutionrelative:mathtestsystem.domain\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040C9B74-7E6F-4877-802C-BC0AE64743E1}|MathTestSystem.Domain\\MathTestSystem.Domain.csproj|c:\\quipu_vedran_krstevski\\mathtestsystem\\mathtestsystem.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040C9B74-7E6F-4877-802C-BC0AE64743E1}|MathTestSystem.Domain\\MathTestSystem.Domain.csproj|solutionrelative:mathtestsystem.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040C9B74-7E6F-4877-802C-BC0AE64743E1}|MathTestSystem.Domain\\MathTestSystem.Domain.csproj|c:\\quipu_vedran_krstevski\\mathtestsystem\\mathtestsystem.domain\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040C9B74-7E6F-4877-802C-BC0AE64743E1}|MathTestSystem.Domain\\MathTestSystem.Domain.csproj|solutionrelative:mathtestsystem.domain\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23E79E0-43CD-4B55-8FA1-DD78B0B59CBF}|MathTestSystem.Application\\MathTestSystem.Application.csproj|c:\\quipu_vedran_krstevski\\mathtestsystem\\mathtestsystem.application\\queries\\getstudentexamsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23E79E0-43CD-4B55-8FA1-DD78B0B59CBF}|MathTestSystem.Application\\MathTestSystem.Application.csproj|solutionrelative:mathtestsystem.application\\queries\\getstudentexamsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23E79E0-43CD-4B55-8FA1-DD78B0B59CBF}|MathTestSystem.Application\\MathTestSystem.Application.csproj|c:\\quipu_vedran_krstevski\\mathtestsystem\\mathtestsystem.application\\queries\\getstudentexamsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23E79E0-43CD-4B55-8FA1-DD78B0B59CBF}|MathTestSystem.Application\\MathTestSystem.Application.csproj|solutionrelative:mathtestsystem.application\\queries\\getstudentexamsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23E79E0-43CD-4B55-8FA1-DD78B0B59CBF}|MathTestSystem.Application\\MathTestSystem.Application.csproj|c:\\quipu_vedran_krstevski\\mathtestsystem\\mathtestsystem.application\\dtos\\examdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23E79E0-43CD-4B55-8FA1-DD78B0B59CBF}|MathTestSystem.Application\\MathTestSystem.Application.csproj|solutionrelative:mathtestsystem.application\\dtos\\examdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23E79E0-43CD-4B55-8FA1-DD78B0B59CBF}|MathTestSystem.Application\\MathTestSystem.Application.csproj|c:\\quipu_vedran_krstevski\\mathtestsystem\\mathtestsystem.application\\commands\\uploadexamscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23E79E0-43CD-4B55-8FA1-DD78B0B59CBF}|MathTestSystem.Application\\MathTestSystem.Application.csproj|solutionrelative:mathtestsystem.application\\commands\\uploadexamscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB10C176-B98A-4A21-8123-842C8A4CFA5A}|MathTestSystem.API\\MathTestSystem.API.csproj|c:\\quipu_vedran_krstevski\\mathtestsystem\\mathtestsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB10C176-B98A-4A21-8123-842C8A4CFA5A}|MathTestSystem.API\\MathTestSystem.API.csproj|solutionrelative:mathtestsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB10C176-B98A-4A21-8123-842C8A4CFA5A}|MathTestSystem.API\\MathTestSystem.API.csproj|c:\\quipu_vedran_krstevski\\mathtestsystem\\mathtestsystem.api\\swagger\\fileuploadoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB10C176-B98A-4A21-8123-842C8A4CFA5A}|MathTestSystem.API\\MathTestSystem.API.csproj|solutionrelative:mathtestsystem.api\\swagger\\fileuploadoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB10C176-B98A-4A21-8123-842C8A4CFA5A}|MathTestSystem.API\\MathTestSystem.API.csproj|c:\\quipu_vedran_krstevski\\mathtestsystem\\mathtestsystem.api\\attributes\\apikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB10C176-B98A-4A21-8123-842C8A4CFA5A}|MathTestSystem.API\\MathTestSystem.API.csproj|solutionrelative:mathtestsystem.api\\attributes\\apikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB10C176-B98A-4A21-8123-842C8A4CFA5A}|MathTestSystem.API\\MathTestSystem.API.csproj|c:\\quipu_vedran_krstevski\\mathtestsystem\\mathtestsystem.api\\controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB10C176-B98A-4A21-8123-842C8A4CFA5A}|MathTestSystem.API\\MathTestSystem.API.csproj|solutionrelative:mathtestsystem.api\\controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB10C176-B98A-4A21-8123-842C8A4CFA5A}|MathTestSystem.API\\MathTestSystem.API.csproj|c:\\quipu_vedran_krstevski\\mathtestsystem\\mathtestsystem.api\\models\\uploadexammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB10C176-B98A-4A21-8123-842C8A4CFA5A}|MathTestSystem.API\\MathTestSystem.API.csproj|solutionrelative:mathtestsystem.api\\models\\uploadexammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB10C176-B98A-4A21-8123-842C8A4CFA5A}|MathTestSystem.API\\MathTestSystem.API.csproj|c:\\quipu_vedran_krstevski\\mathtestsystem\\mathtestsystem.api\\controllers\\integrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB10C176-B98A-4A21-8123-842C8A4CFA5A}|MathTestSystem.API\\MathTestSystem.API.csproj|solutionrelative:mathtestsystem.api\\controllers\\integrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.Domain\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "MathTestSystem.Domain\\Entities\\Teacher.cs",
+              "ToolTip": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.Domain\\Entities\\Teacher.cs",
+              "RelativeToolTip": "MathTestSystem.Domain\\Entities\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:14:33.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "MathTestSystem.Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "MathTestSystem.Domain\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:14:25.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.Domain\\Entities\\Exam.cs",
+              "RelativeDocumentMoniker": "MathTestSystem.Domain\\Entities\\Exam.cs",
+              "ToolTip": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.Domain\\Entities\\Exam.cs",
+              "RelativeToolTip": "MathTestSystem.Domain\\Entities\\Exam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:14:09.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetStudentExamsQuery.cs",
+              "DocumentMoniker": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.Application\\Queries\\GetStudentExamsQuery.cs",
+              "RelativeDocumentMoniker": "MathTestSystem.Application\\Queries\\GetStudentExamsQuery.cs",
+              "ToolTip": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.Application\\Queries\\GetStudentExamsQuery.cs",
+              "RelativeToolTip": "MathTestSystem.Application\\Queries\\GetStudentExamsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:13:54.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExamDto.cs",
+              "DocumentMoniker": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.Application\\DTOs\\ExamDto.cs",
+              "RelativeDocumentMoniker": "MathTestSystem.Application\\DTOs\\ExamDto.cs",
+              "ToolTip": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.Application\\DTOs\\ExamDto.cs",
+              "RelativeToolTip": "MathTestSystem.Application\\DTOs\\ExamDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:13:36.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "MathTestSystem.API\\Program.cs",
+              "ToolTip": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.API\\Program.cs",
+              "RelativeToolTip": "MathTestSystem.API\\Program.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:13:03.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileUploadOperationFilter.cs",
+              "DocumentMoniker": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.API\\Swagger\\FileUploadOperationFilter.cs",
+              "RelativeDocumentMoniker": "MathTestSystem.API\\Swagger\\FileUploadOperationFilter.cs",
+              "ToolTip": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.API\\Swagger\\FileUploadOperationFilter.cs",
+              "RelativeToolTip": "MathTestSystem.API\\Swagger\\FileUploadOperationFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:12:50.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExamsController.cs",
+              "DocumentMoniker": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.API\\Controllers\\ExamsController.cs",
+              "RelativeDocumentMoniker": "MathTestSystem.API\\Controllers\\ExamsController.cs",
+              "ToolTip": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.API\\Controllers\\ExamsController.cs",
+              "RelativeToolTip": "MathTestSystem.API\\Controllers\\ExamsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:12:11.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UploadExamModel.cs",
+              "DocumentMoniker": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.API\\Models\\UploadExamModel.cs",
+              "RelativeDocumentMoniker": "MathTestSystem.API\\Models\\UploadExamModel.cs",
+              "ToolTip": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.API\\Models\\UploadExamModel.cs",
+              "RelativeToolTip": "MathTestSystem.API\\Models\\UploadExamModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:22:59.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetStudentExamsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.Application\\Queries\\GetStudentExamsQueryHandler.cs",
+              "RelativeDocumentMoniker": "MathTestSystem.Application\\Queries\\GetStudentExamsQueryHandler.cs",
+              "ToolTip": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.Application\\Queries\\GetStudentExamsQueryHandler.cs",
+              "RelativeToolTip": "MathTestSystem.Application\\Queries\\GetStudentExamsQueryHandler.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:22:43.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UploadExamsCommandHandler.cs",
+              "DocumentMoniker": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.Application\\Commands\\UploadExamsCommandHandler.cs",
+              "RelativeDocumentMoniker": "MathTestSystem.Application\\Commands\\UploadExamsCommandHandler.cs",
+              "ToolTip": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.Application\\Commands\\UploadExamsCommandHandler.cs",
+              "RelativeToolTip": "MathTestSystem.Application\\Commands\\UploadExamsCommandHandler.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAA3wGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:15:26.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiKeyAttribute.cs",
+              "DocumentMoniker": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.API\\Attributes\\ApiKeyAttribute.cs",
+              "RelativeDocumentMoniker": "MathTestSystem.API\\Attributes\\ApiKeyAttribute.cs",
+              "ToolTip": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.API\\Attributes\\ApiKeyAttribute.cs",
+              "RelativeToolTip": "MathTestSystem.API\\Attributes\\ApiKeyAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:08:55.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IntegrationController.cs",
+              "DocumentMoniker": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.API\\Controllers\\IntegrationController.cs",
+              "RelativeDocumentMoniker": "MathTestSystem.API\\Controllers\\IntegrationController.cs",
+              "ToolTip": "C:\\Quipu_Vedran_krstevski\\MathTestSystem\\MathTestSystem.API\\Controllers\\IntegrationController.cs",
+              "RelativeToolTip": "MathTestSystem.API\\Controllers\\IntegrationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:06:01.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

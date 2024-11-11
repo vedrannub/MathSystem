@@ -1,4 +1,3 @@
-// src/components/TeacherStudents.js
 import React, { useEffect, useState } from 'react';
 import { Container, Card, Table, Spinner, Alert } from 'react-bootstrap';
 
@@ -10,8 +9,7 @@ function TeacherStudents() {
   useEffect(() => {
     fetch('http://localhost:5131/api/Teachers/students', {
       headers: {
-        'Content-Type': 'application/json',
-        'ApiKey': 'Your_Secure_API_Key', // Replace with your actual API key
+        'Content-Type': 'application/json'
       },
     })
       .then((response) => {
