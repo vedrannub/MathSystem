@@ -1,0 +1,17 @@
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\bin\Debug\net8.0\MathTestSystem.Infrastructure.deps.json
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\bin\Debug\net8.0\MathTestSystem.Infrastructure.dll
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\bin\Debug\net8.0\MathTestSystem.Infrastructure.pdb
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\bin\Debug\net8.0\MathTestSystem.Application.dll
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\bin\Debug\net8.0\MathTestSystem.Domain.dll
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\bin\Debug\net8.0\MathTestSystem.Domain.pdb
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\bin\Debug\net8.0\MathTestSystem.Application.pdb
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\obj\Debug\net8.0\MathTestSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\obj\Debug\net8.0\MathTestSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\obj\Debug\net8.0\MathTestSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\obj\Debug\net8.0\MathTestSystem.Infrastructure.AssemblyInfo.cs
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\obj\Debug\net8.0\MathTestSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\obj\Debug\net8.0\MathTest.C909F9C5.Up2Date
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\obj\Debug\net8.0\MathTestSystem.Infrastructure.dll
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\obj\Debug\net8.0\refint\MathTestSystem.Infrastructure.dll
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\obj\Debug\net8.0\MathTestSystem.Infrastructure.pdb
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Infrastructure\obj\Debug\net8.0\ref\MathTestSystem.Infrastructure.dll

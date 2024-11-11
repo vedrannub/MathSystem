@@ -1,0 +1,11 @@
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Domain\bin\Debug\net8.0\MathTestSystem.Domain.deps.json
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Domain\bin\Debug\net8.0\MathTestSystem.Domain.dll
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Domain\bin\Debug\net8.0\MathTestSystem.Domain.pdb
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Domain\obj\Debug\net8.0\MathTestSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Domain\obj\Debug\net8.0\MathTestSystem.Domain.AssemblyInfoInputs.cache
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Domain\obj\Debug\net8.0\MathTestSystem.Domain.AssemblyInfo.cs
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Domain\obj\Debug\net8.0\MathTestSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Domain\obj\Debug\net8.0\MathTestSystem.Domain.dll
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Domain\obj\Debug\net8.0\refint\MathTestSystem.Domain.dll
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Domain\obj\Debug\net8.0\MathTestSystem.Domain.pdb
+C:\Quipu_Vedran_krstevski\MathTestSystem\MathTestSystem.Domain\obj\Debug\net8.0\ref\MathTestSystem.Domain.dll
